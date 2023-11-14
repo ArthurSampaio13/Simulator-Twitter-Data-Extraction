@@ -24,8 +24,7 @@ Você pode executar manualmente a simulação de extração de dados do Twitter 
 A DAG twitter_dag.py está configurada para ser executada diariamente e utiliza a simulação da API do Twitter, sem a necessidade de fornecer credenciais.
 
 ## Requisitos
-Python 3.9
-Apache Airflow
+Python 3.9 - Apache Airflow
 
 ## Contribuição
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para criar uma issue ou enviar um pull request.
